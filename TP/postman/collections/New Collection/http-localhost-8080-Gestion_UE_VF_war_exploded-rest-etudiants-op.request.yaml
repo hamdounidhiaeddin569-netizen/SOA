@@ -1,0 +1,8 @@
+$kind: http-request
+name: http://localhost:8080/Gestion_UE_VF_war_exploded/rest/etudiants/option
+description: ""
+url: http://localhost:8080/Gestion_UE_VF_war_exploded/rest/etudiants/option?codeOption=1
+method: GET
+queryParams:
+  codeOption: "1"
+order: 1791458830762

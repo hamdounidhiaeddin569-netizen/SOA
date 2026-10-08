@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:8080/Gestion_UE_VF_war_exploded/rest/options
+description: ""
+url: http://localhost:8080/Gestion_UE_VF_war_exploded/rest/options
+method: GET
+order: 711042506633689

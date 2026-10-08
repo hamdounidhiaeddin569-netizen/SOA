@@ -1,0 +1,6 @@
+$kind: http-request
+name: http://localhost:8080/Gestion_UE_VF_war_exploded/rest/etudiants/
+description: ""
+url: http://localhost:8080/Gestion_UE_VF_war_exploded/rest/etudiants/
+method: GET
+order: 748123486193328
